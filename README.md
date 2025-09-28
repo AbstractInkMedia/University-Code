@@ -1,0 +1,1 @@
+I've switched laptops multiple times and have to find where I've stored past projects. As I find them I'll be updating them and throwing them here to demonstrate experience using languages like C++, Python, and Javascript.
